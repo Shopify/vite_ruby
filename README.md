@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived and receives no updates or security fixes.
+
 <h1 align="center">
   <a href="https://vite-ruby.netlify.app/">
     <img src="https://raw.githubusercontent.com/ElMassimo/vite_ruby/main/logo.svg" width="200px"/>
